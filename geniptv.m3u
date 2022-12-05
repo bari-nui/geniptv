@@ -1,627 +1,141 @@
 #EXTM3U
-#EXTINF:0 tvg-id="tv1-lt" group-title="Channels",TV1
-http://foctv.xyz:25510/Zulhairie/BB2064/1
-#EXTINF:0 tvg-id="tv1-lt" group-title="Channels",TV1 (FHD)
-http://foctv.xyz:25510/Zulhairie/BB2064/2
-#EXTINF:0 tvg-id="TV2.dk" group-title="Channels",TV2
-http://foctv.xyz:25510/Zulhairie/BB2064/3
-#EXTINF:0 tvg-id="TV2.dk" group-title="Channels",TV2 (FHD)
-http://foctv.xyz:25510/Zulhairie/BB2064/4
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV3(A)
-http://foctv.xyz:25510/Zulhairie/BB2064/5
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV3(B)
-http://foctv.xyz:25510/Zulhairie/BB2064/6
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV3(C)
-http://foctv.xyz:25510/Zulhairie/BB2064/7
-#EXTINF:0 tvg-id="tv6-lat" group-title="Channels",TV6
-http://foctv.xyz:25510/Zulhairie/BB2064/203
-#EXTINF:0 tvg-id="ntv7" group-title="Channels",NTV7
-http://foctv.xyz:25510/Zulhairie/BB2064/8
-#EXTINF:0 tvg-id="8TV.pl" group-title="Channels",8TV
-http://foctv.xyz:25510/Zulhairie/BB2064/9
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV9
-http://foctv.xyz:25510/Zulhairie/BB2064/10
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV9(B)
-http://foctv.xyz:25510/Zulhairie/BB2064/11
-#EXTINF:0 tvg-id="TVS.pl" group-title="Channels",TVS
-http://foctv.xyz:25510/Zulhairie/BB2064/214
-#EXTINF:0 tvg-id="ext" group-title="Channels",Okey
-http://foctv.xyz:25510/Zulhairie/BB2064/12
-#EXTINF:0 tvg-id="ext" group-title="Channels",Drama Sangat
-http://foctv.xyz:25510/Zulhairie/BB2064/13
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alhijrah
-http://foctv.xyz:25510/Zulhairie/BB2064/14
-#EXTINF:0 tvg-id="ext" group-title="Channels",Awesome TV
-http://foctv.xyz:25510/Zulhairie/BB2064/244
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Bernama
-http://foctv.xyz:25510/Zulhairie/BB2064/15
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Awani
-http://foctv.xyz:25510/Zulhairie/BB2064/16
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Awani(B)
-http://foctv.xyz:25510/Zulhairie/BB2064/17
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Oasis
-http://foctv.xyz:25510/Zulhairie/BB2064/18
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Ceria
-http://foctv.xyz:25510/Zulhairie/BB2064/19
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Ceria(B)
-http://foctv.xyz:25510/Zulhairie/BB2064/20
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Prima
-http://foctv.xyz:25510/Zulhairie/BB2064/21
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Prima(B)
-http://foctv.xyz:25510/Zulhairie/BB2064/22
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Ria
-http://foctv.xyz:25510/Zulhairie/BB2064/23
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Ria (B)
-http://foctv.xyz:25510/Zulhairie/BB2064/224
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Ria (C)
-http://foctv.xyz:25510/Zulhairie/BB2064/282
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Warna (A)
-http://foctv.xyz:25510/Zulhairie/BB2064/297
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Warna (C)
-http://foctv.xyz:25510/Zulhairie/BB2064/24
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Warna(B)
-http://foctv.xyz:25510/Zulhairie/BB2064/25
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Citra
-http://foctv.xyz:25510/Zulhairie/BB2064/26
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Citra(B)
-http://foctv.xyz:25510/Zulhairie/BB2064/27
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Aura
-http://foctv.xyz:25510/Zulhairie/BB2064/28
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Rania
-http://foctv.xyz:25510/Zulhairie/BB2064/29
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Naura
-http://foctv.xyz:25510/Zulhairie/BB2064/30
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Naura(B)
-http://foctv.xyz:25510/Zulhairie/BB2064/31
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Hello
-http://foctv.xyz:25510/Zulhairie/BB2064/32
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro BOO (M)
-http://foctv.xyz:25510/Zulhairie/BB2064/248
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro BOO (ENG)
-http://foctv.xyz:25510/Zulhairie/BB2064/33
-#EXTINF:0 tvg-id="NetTV.hr" group-title="Channels",NET.
-http://foctv.xyz:25510/Zulhairie/BB2064/41
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANTV
-http://foctv.xyz:25510/Zulhairie/BB2064/42
-#EXTINF:0 tvg-id="ext" group-title="Channels",INDOSIAR
-http://foctv.xyz:25510/Zulhairie/BB2064/36
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRANS TV
-http://foctv.xyz:25510/Zulhairie/BB2064/34
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRANS 7
-http://foctv.xyz:25510/Zulhairie/BB2064/35
-#EXTINF:0 tvg-id="ext" group-title="Channels",SCTV
-http://foctv.xyz:25510/Zulhairie/BB2064/37
-#EXTINF:0 tvg-id="ext" group-title="Channels",MNCTV
-http://foctv.xyz:25510/Zulhairie/BB2064/40
-#EXTINF:0 tvg-id="ext" group-title="Channels",RCTI
-http://foctv.xyz:25510/Zulhairie/BB2064/38
-#EXTINF:0 tvg-id="gtv.il" group-title="Channels",GTV
-http://foctv.xyz:25510/Zulhairie/BB2064/39
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVRI
-http://foctv.xyz:25510/Zulhairie/BB2064/208
-#EXTINF:0 tvg-id="rtvint" group-title="Channels",RTV
-http://foctv.xyz:25510/Zulhairie/BB2064/210
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro AEC
-http://foctv.xyz:25510/Zulhairie/BB2064/43
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro AOD
-http://foctv.xyz:25510/Zulhairie/BB2064/44
-#EXTINF:0 tvg-id="ext" group-title="Channels",Wah Lai Toi
-http://foctv.xyz:25510/Zulhairie/BB2064/45
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hua Hee Tai
-http://foctv.xyz:25510/Zulhairie/BB2064/46
-#EXTINF:0 tvg-id="ext" group-title="Channels",Quan Jia
-http://foctv.xyz:25510/Zulhairie/BB2064/47
-#EXTINF:0 tvg-id="ext" group-title="Channels",IQiyi
-http://foctv.xyz:25510/Zulhairie/BB2064/48
-#EXTINF:0 tvg-id="ext" group-title="Channels",Celestial Movies
-http://foctv.xyz:25510/Zulhairie/BB2064/49
-#EXTINF:0 tvg-id="ext" group-title="Channels",Celestial Classic Movies_A
-http://foctv.xyz:25510/Zulhairie/BB2064/50
-#EXTINF:0 tvg-id="ext" group-title="Channels",Celestial Classic Movies_B
-http://foctv.xyz:25510/Zulhairie/BB2064/51
-#EXTINF:0 tvg-id="ext" group-title="Channels",SCM Legend
-http://foctv.xyz:25510/Zulhairie/BB2064/52
-#EXTINF:0 tvg-id="ext" group-title="Channels",Star Chinese Movies
-http://foctv.xyz:25510/Zulhairie/BB2064/53
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO (B)
-http://foctv.xyz:25510/Zulhairie/BB2064/235
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO (M)
-http://foctv.xyz:25510/Zulhairie/BB2064/54
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO (ID)
-http://foctv.xyz:25510/Zulhairie/BB2064/346
-#EXTINF:0 tvg-id="HBOHits.in" group-title="Channels",HBO Hits
-http://foctv.xyz:25510/Zulhairie/BB2064/55
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
-http://foctv.xyz:25510/Zulhairie/BB2064/56
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Channels",HBO Signature
-http://foctv.xyz:25510/Zulhairie/BB2064/57
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Movies Premium
-http://foctv.xyz:25510/Zulhairie/BB2064/58
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Action Movies
-http://foctv.xyz:25510/Zulhairie/BB2064/59
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Family Movies (EN)
-http://foctv.xyz:25510/Zulhairie/BB2064/60
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Family Movies (ID)
-http://foctv.xyz:25510/Zulhairie/BB2064/61
-#EXTINF:0 tvg-id="ext" group-title="Channels",&Flix HD
-http://foctv.xyz:25510/Zulhairie/BB2064/141
-#EXTINF:0 tvg-id="ext" group-title="Channels",&Prive HD (Testing)
-http://foctv.xyz:25510/Zulhairie/BB2064/63
-#EXTINF:0 tvg-id="StarMovies.in" group-title="Channels",Star Movies (FHD)
-http://foctv.xyz:25510/Zulhairie/BB2064/220
-#EXTINF:0 tvg-id="ext" group-title="Channels",Star Movie Select (Testing)
-http://foctv.xyz:25510/Zulhairie/BB2064/221
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="Channels",SONY Pix (FHD)
-http://foctv.xyz:25510/Zulhairie/BB2064/223
-#EXTINF:0 tvg-id="ext" group-title="Channels",MNX HD (FHD)
-http://foctv.xyz:25510/Zulhairie/BB2064/222
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",Cinemax
-http://foctv.xyz:25510/Zulhairie/BB2064/65
-#EXTINF:0 tvg-id="galaxy" group-title="Channels",Galaxy
-http://foctv.xyz:25510/Zulhairie/BB2064/66
-#EXTINF:0 tvg-id="ext" group-title="Channels",Galaxy Premium
-http://foctv.xyz:25510/Zulhairie/BB2064/67
-#EXTINF:0 tvg-id="ext" group-title="Channels",HITS Movies
-http://foctv.xyz:25510/Zulhairie/BB2064/68
-#EXTINF:0 tvg-id="ext" group-title="Channels",CinemaWorld
-http://foctv.xyz:25510/Zulhairie/BB2064/69
-#EXTINF:0 tvg-id="ext" group-title="Channels",Thrill
-http://foctv.xyz:25510/Zulhairie/BB2064/70
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC
-http://foctv.xyz:25510/Zulhairie/BB2064/71
-#EXTINF:0 tvg-id="ext" group-title="Channels",Flik
-http://foctv.xyz:25510/Zulhairie/BB2064/72
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bioskop Indonesia
-http://foctv.xyz:25510/Zulhairie/BB2064/73
-#EXTINF:0 tvg-id="ext" group-title="Channels",KIX (C)
-http://foctv.xyz:25510/Zulhairie/BB2064/74
-#EXTINF:0 tvg-id="ext" group-title="Channels",KIX (M)
-http://foctv.xyz:25510/Zulhairie/BB2064/75
-#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
-http://foctv.xyz:25510/Zulhairie/BB2064/76
-#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Channels",BBC Lifestyle
-http://foctv.xyz:25510/Zulhairie/BB2064/77
-#EXTINF:0 tvg-id="hgtv" group-title="Channels",HGTV
-http://foctv.xyz:25510/Zulhairie/BB2064/78
-#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",Warner TV
-http://foctv.xyz:25510/Zulhairie/BB2064/79
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",Lifetime
-http://foctv.xyz:25510/Zulhairie/BB2064/80
-#EXTINF:0 tvg-id="ext" group-title="Channels",Blue Ant Entertainment
-http://foctv.xyz:25510/Zulhairie/BB2064/81
-#EXTINF:0 tvg-id="ext" group-title="Channels",Blue Ant Extreme
-http://foctv.xyz:25510/Zulhairie/BB2064/82
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
-http://foctv.xyz:25510/Zulhairie/BB2064/83
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX Crime
-http://foctv.xyz:25510/Zulhairie/BB2064/84
-#EXTINF:0 tvg-id="fox-life" group-title="Channels",FOX Life
-http://foctv.xyz:25510/Zulhairie/BB2064/85
-#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="Channels",HITS
-http://foctv.xyz:25510/Zulhairie/BB2064/86
-#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",Crime Investigation
-http://foctv.xyz:25510/Zulhairie/BB2064/87
-#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashion TV
-http://foctv.xyz:25510/Zulhairie/BB2064/88
-#EXTINF:0 tvg-id="LoveNature.uk" group-title="Channels",Love Nature
-http://foctv.xyz:25510/Zulhairie/BB2064/89
-#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC Earth
-http://foctv.xyz:25510/Zulhairie/BB2064/90
-#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Channels",DMAX
-http://foctv.xyz:25510/Zulhairie/BB2064/91
-#EXTINF:0 tvg-id="history-rus" group-title="Channels",History
-http://foctv.xyz:25510/Zulhairie/BB2064/92
-#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
-http://foctv.xyz:25510/Zulhairie/BB2064/93
-#EXTINF:0 tvg-id="NatGeoPeople.in" group-title="Channels",Nat Geo People
-http://foctv.xyz:25510/Zulhairie/BB2064/94
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
-http://foctv.xyz:25510/Zulhairie/BB2064/95
-#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
-http://foctv.xyz:25510/Zulhairie/BB2064/96
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
-http://foctv.xyz:25510/Zulhairie/BB2064/97
-#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Asia
-http://foctv.xyz:25510/Zulhairie/BB2064/98
-#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
-http://foctv.xyz:25510/Zulhairie/BB2064/99
-#EXTINF:0 tvg-id="ext" group-title="Channels",AFC
-http://foctv.xyz:25510/Zulhairie/BB2064/100
-#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
-http://foctv.xyz:25510/Zulhairie/BB2064/101
-#EXTINF:0 tvg-id="Animax.de" group-title="Channels",Animax
-http://foctv.xyz:25510/Zulhairie/BB2064/102
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aniplus
-http://foctv.xyz:25510/Zulhairie/BB2064/103
-#EXTINF:0 tvg-id="ext" group-title="Channels",Waku Waku Japan
-http://foctv.xyz:25510/Zulhairie/BB2064/104
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sony GEM TV
-http://foctv.xyz:25510/Zulhairie/BB2064/105
-#EXTINF:0 tvg-id="ext" group-title="Channels",iNews
-http://foctv.xyz:25510/Zulhairie/BB2064/209
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVOne
-http://foctv.xyz:25510/Zulhairie/BB2064/106
-#EXTINF:0 tvg-id="ext" group-title="Channels",KOMPAS TV
-http://foctv.xyz:25510/Zulhairie/BB2064/107
-#EXTINF:0 tvg-id="Metro.pl" group-title="Channels",METRO TV
-http://foctv.xyz:25510/Zulhairie/BB2064/108
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEA Today
-http://foctv.xyz:25510/Zulhairie/BB2064/109
-#EXTINF:0 tvg-id="bbc-world" group-title="Channels",BBC World News
-http://foctv.xyz:25510/Zulhairie/BB2064/110
-#EXTINF:0 tvg-id="nhk-world" group-title="Channels",NHK World
-http://foctv.xyz:25510/Zulhairie/BB2064/111
-#EXTINF:0 tvg-id="cnn" group-title="Channels",CNN International
-http://foctv.xyz:25510/Zulhairie/BB2064/112
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN Indonesia
-http://foctv.xyz:25510/Zulhairie/BB2064/113
-#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
-http://foctv.xyz:25510/Zulhairie/BB2064/114
-#EXTINF:0 tvg-id="bloomberg" group-title="Channels",Bloomberg
-http://foctv.xyz:25510/Zulhairie/BB2064/115
-#EXTINF:0 tvg-id="ext" group-title="Channels",Channel News Asia
-http://foctv.xyz:25510/Zulhairie/BB2064/116
-#EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Channels",Al Quran Al Kareem TV
-http://foctv.xyz:25510/Zulhairie/BB2064/117
-#EXTINF:0 tvg-id="ext" group-title="Channels",U Channel
-http://foctv.xyz:25510/Zulhairie/BB2064/118
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tawaf TV
-http://foctv.xyz:25510/Zulhairie/BB2064/119
-#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel (E)
-http://foctv.xyz:25510/Zulhairie/BB2064/120
-#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel (M)
-http://foctv.xyz:25510/Zulhairie/BB2064/121
-#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Junior (E)
-http://foctv.xyz:25510/Zulhairie/BB2064/122
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network (E)
-http://foctv.xyz:25510/Zulhairie/BB2064/123
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network (ID)
-http://foctv.xyz:25510/Zulhairie/BB2064/124
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dreamworks
-http://foctv.xyz:25510/Zulhairie/BB2064/125
-#EXTINF:0 tvg-id="boomerang" group-title="Channels",Boomerang
-http://foctv.xyz:25510/Zulhairie/BB2064/126
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
-http://foctv.xyz:25510/Zulhairie/BB2064/127
-#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr
-http://foctv.xyz:25510/Zulhairie/BB2064/128
-#EXTINF:0 tvg-id="ext" group-title="Channels",Horee
-http://foctv.xyz:25510/Zulhairie/BB2064/129
-#EXTINF:0 tvg-id="Zoomoo.br" group-title="Channels",Zoomoo
-http://foctv.xyz:25510/Zulhairie/BB2064/130
-#EXTINF:0 tvg-id="ext" group-title="Channels",My Kidz
-http://foctv.xyz:25510/Zulhairie/BB2064/131
-#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Channels",BabyFirst
-http://foctv.xyz:25510/Zulhairie/BB2064/132
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sony One (E)
-http://foctv.xyz:25510/Zulhairie/BB2064/133
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sony One (M)
-http://foctv.xyz:25510/Zulhairie/BB2064/134
-#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",tvN
-http://foctv.xyz:25510/Zulhairie/BB2064/135
-#EXTINF:0 tvg-id="ext" group-title="Channels",tvN Movies
-http://foctv.xyz:25510/Zulhairie/BB2064/136
-#EXTINF:0 tvg-id="arirang-en" group-title="Channels",Arirang
-http://foctv.xyz:25510/Zulhairie/BB2064/137
-#EXTINF:0 tvg-id="ext" group-title="Channels",KBS World_A
-http://foctv.xyz:25510/Zulhairie/BB2064/138
-#EXTINF:0 tvg-id="ext" group-title="Channels",KBS World_B
-http://foctv.xyz:25510/Zulhairie/BB2064/139
-#EXTINF:0 tvg-id="ext" group-title="Channels",K+
-http://foctv.xyz:25510/Zulhairie/BB2064/140
-#EXTINF:0 tvg-id="SunTv.in" group-title="Channels",SUN TV
-http://foctv.xyz:25510/Zulhairie/BB2064/215
-#EXTINF:0 tvg-id="SonyMax.uk" group-title="Channels",Sony MAX
-http://foctv.xyz:25510/Zulhairie/BB2064/218
-#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Channels",ZEE Cinema
-http://foctv.xyz:25510/Zulhairie/BB2064/212
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE Bioskop
-http://foctv.xyz:25510/Zulhairie/BB2064/142
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bollyone HD
-http://foctv.xyz:25510/Zulhairie/BB2064/143
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Vinmeen
-http://foctv.xyz:25510/Zulhairie/BB2064/144
-#EXTINF:0 tvg-id="ext" group-title="Channels",Astro Vaanavil
-http://foctv.xyz:25510/Zulhairie/BB2064/145
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORTS",SkyNet Sport 1
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="SPORTS",SkyNet Sport 2
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 1
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 2
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="SPORTS",TrueSport HD 3
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTM Sports
-http://foctv.xyz:25510/Zulhairie/BB2064/146
-#EXTINF:0 tvg-id="illuzion+" group-title="Channels",Arena
-http://foctv.xyz:25510/Zulhairie/BB2064/147
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSP_A
-http://foctv.xyz:25510/Zulhairie/BB2064/148
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSP_B
-http://foctv.xyz:25510/Zulhairie/BB2064/233
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSP2_A
-http://foctv.xyz:25510/Zulhairie/BB2064/149
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSP2_B
-http://foctv.xyz:25510/Zulhairie/BB2064/234
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSP3_A
-http://foctv.xyz:25510/Zulhairie/BB2064/150
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSP3_B
-http://foctv.xyz:25510/Zulhairie/BB2064/232
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSP4
-http://foctv.xyz:25510/Zulhairie/BB2064/151
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSP4_B
-http://foctv.xyz:25510/Zulhairie/BB2064/249
-#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",FOX Sport 1
-http://foctv.xyz:25510/Zulhairie/BB2064/152
-#EXTINF:0 tvg-id="ESPN2.nl" group-title="Channels",FOX Sport 2
-http://foctv.xyz:25510/Zulhairie/BB2064/153
-#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Channels",FOX Sport 3
-http://foctv.xyz:25510/Zulhairie/BB2064/154
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 ID
-http://foctv.xyz:25510/Zulhairie/BB2064/155
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 ID
-http://foctv.xyz:25510/Zulhairie/BB2064/156
-#EXTINF:0 tvg-id="ext" group-title="Channels",Champions 1
-http://foctv.xyz:25510/Zulhairie/BB2064/157
-#EXTINF:0 tvg-id="ext" group-title="Channels",Champions 2
-http://foctv.xyz:25510/Zulhairie/BB2064/158
-#EXTINF:0 tvg-id="ext" group-title="Channels",Usee Sport 1
-http://foctv.xyz:25510/Zulhairie/BB2064/241
-#EXTINF:0 tvg-id="ext" group-title="Channels",Usee Sport 2
-http://foctv.xyz:25510/Zulhairie/BB2064/242
-#EXTINF:0 tvg-id="WWE.ca" group-title="Channels",WWE
-http://foctv.xyz:25510/Zulhairie/BB2064/350
-#EXTINF:0 tvg-id="esp" group-title="Channels",Eurosport
-http://foctv.xyz:25510/Zulhairie/BB2064/328
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rugby TV
-http://foctv.xyz:25510/Zulhairie/BB2064/337
-#EXTINF:0 tvg-id="GolfChannel.us" group-title="Channels",NBC Golf
-http://foctv.xyz:25510/Zulhairie/BB2064/159
-#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV
-http://foctv.xyz:25510/Zulhairie/BB2064/160
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Sport
-http://foctv.xyz:25510/Zulhairie/BB2064/161
-#EXTINF:0 tvg-id="ext" group-title="Channels",eGG TV
-http://foctv.xyz:25510/Zulhairie/BB2064/162
-#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby TV
-http://foctv.xyz:25510/Zulhairie/BB2064/182
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV Live HD
-http://foctv.xyz:25510/Zulhairie/BB2064/206
-#EXTINF:0 tvg-id="ext" group-title="Channels",Channel V. Int
-http://foctv.xyz:25510/Zulhairie/BB2064/205
-#EXTINF:0 tvg-id="ext" group-title="Channels",Prambors
-http://foctv.xyz:25510/Zulhairie/BB2064/207
-#EXTINF:0 tvg-id="ext" group-title="Channels",i-Konser
-http://foctv.xyz:25510/Zulhairie/BB2064/204
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEST
-http://foctv.xyz:25510/Zulhairie/BB2064/211
-#EXTINF:0 tvg-id="ext" group-title="Channels",test2
-http://foctv.xyz:25510/Zulhairie/BB2064/226
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Hits (B)
-http://foctv.xyz:25510/Zulhairie/BB2064/236
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Signature (B)
-http://foctv.xyz:25510/Zulhairie/BB2064/237
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Action Movies (B)
-http://foctv.xyz:25510/Zulhairie/BB2064/240
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Movies Premium (B)
-http://foctv.xyz:25510/Zulhairie/BB2064/239
-#EXTINF:0 tvg-id="ext" group-title="Channels",MNC Sport 1
-http://foctv.xyz:25510/Zulhairie/BB2064/280
-#EXTINF:0 tvg-id="Zing.uk" group-title="Channels",Zing
-http://foctv.xyz:25510/Zulhairie/BB2064/307
-#EXTINF:0 tvg-id="ERA.mk" group-title="Channels",ERA
-http://foctv.xyz:25510/Zulhairie/BB2064/172
-#EXTINF:0 tvg-id="ext" group-title="Channels",SINAR
-http://foctv.xyz:25510/Zulhairie/BB2064/173
-#EXTINF:0 tvg-id="ext" group-title="Channels",HOT FM
-http://foctv.xyz:25510/Zulhairie/BB2064/174
-#EXTINF:0 tvg-id="ext" group-title="Channels",SURIA
-http://foctv.xyz:25510/Zulhairie/BB2064/175
-#EXTINF:0 tvg-id="ext" group-title="Channels",HITZ
-http://foctv.xyz:25510/Zulhairie/BB2064/176
-#EXTINF:0 tvg-id="ext" group-title="Channels",GEGAR
-http://foctv.xyz:25510/Zulhairie/BB2064/177
-#EXTINF:0 tvg-id="ext" group-title="Channels",KOOL FM
-http://foctv.xyz:25510/Zulhairie/BB2064/178
-#EXTINF:0 tvg-id="ext" group-title="Channels",FLY FM
-http://foctv.xyz:25510/Zulhairie/BB2064/179
-#EXTINF:0 tvg-id="ext" group-title="Channels",ONE FM
-http://foctv.xyz:25510/Zulhairie/BB2064/180
-#EXTINF:0 tvg-id="ext" group-title="Channels",MIX
-http://foctv.xyz:25510/Zulhairie/BB2064/181
+#EXTINF:-1,Maleo
+http://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1,JOWO
+https://delivery.bukankaleng.co/stream/jowo/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,ANTV
+https://delivery.bukankaleng.co/stream/id_antv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,TVONE
+https://delivery.bukankaleng.co/stream/id_tvone/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,SCTV
+https://delivery.bukankaleng.co/stream/id_sctv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1, INDOSIAR
+https://delivery.bukankaleng.co/stream/id_indosiar/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,MOJI
+https://delivery.bukankaleng.co/stream/ochannel/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,MENTARI
+https://delivery.bukankaleng.co/stream/mentaritv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,RCTI
+https://delivery.bukankaleng.co/stream/rcti/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,MNC
+https://delivery.bukankaleng.co/stream/mnctv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,GTV
+https://delivery.bukankaleng.co/stream/gtv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,INEWS
+https://delivery.bukankaleng.co/stream/inewstv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,KOMPAS
+https://delivery.bukankaleng.co/stream/id_kompastv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,NET
+https://delivery.bukankaleng.co/stream/id_nettv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,TRANSTV
+https://delivery.bukankaleng.co/stream/id_transtv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,TRANS7
+https://delivery.bukankaleng.co/stream/id_trans7/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,RTV
+https://delivery.bukankaleng.co/stream/id_rajawalitv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,CNN
+https://delivery.bukankaleng.co/stream/id_cnn/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,METROTV
+https://delivery.bukankaleng.co/stream/id_metrotv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,TVRI
+https://delivery.bukankaleng.co/stream/id_tvri/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,CITRA BIOSKOP
+http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
+#EXTINF:-1,HOREE
+http://tv.zonanime.my.id/vidio/horee.m3u8
+#EXTINF:-1,IMC
+https://delivery.bukankaleng.co/stream/imc/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,FLIK
+https://delivery.bukankaleng.co/stream/flik/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,SCM
+https://delivery.bukankaleng.co/stream/id_scm/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,HBO
+https://delivery.bukankaleng.co/stream/hbo/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,HBO SIGNATURE
+https://delivery.bukankaleng.co/stream/hbo_signature/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,HBO HITS
+https://delivery.bukankaleng.co/stream/hbo_hits/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,HBO FAMILY
+https://delivery.bukankaleng.co/stream/hbo_family/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,CINEMAX
+https://delivery.bukankaleng.co/stream/cinemax/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,KIX
+https://delivery.bukankaleng.co/stream/kix/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,THRILL
+https://delivery.bukankaleng.co/stream/thrill/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,AXN
+https://delivery.bukankaleng.co/stream/id_axn/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,CELESTIAL MOVIES
+https://delivery.bukankaleng.co/stream/cm/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,CCM
+https://delivery.bukankaleng.co/stream/ccm/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,TVN
+https://delivery.bukankaleng.co/stream/id_tvn/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,TVN MOVIES
+https://delivery.bukankaleng.co/stream/tvn_movies/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,HITS
+https://delivery.bukankaleng.co/stream/hits/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,WARNER
+https://delivery.bukankaleng.co/stream/warnertv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,ZEE BIOSKOP
+https://delivery.bukankaleng.co/stream/zeebioskop/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,ASTRO BOLLYONE
+https://delivery.bukankaleng.co/stream/astro_bollyone/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,MY FAMILY CHANNEL
+https://delivery.bukankaleng.co/stream/myfamilychannel/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,MY KIDZ
+https://delivery.bukankaleng.co/stream/mykidz/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,MY CINEMA ASIA
+https://delivery.bukankaleng.co/stream/mycinemaasia/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,GALAXY
+https://delivery.bukankaleng.co/stream/galaxy/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,GALAXY PREMIUM
+https://delivery.bukankaleng.co/stream/galaxy_premium/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,ANIMAL PLANET
+https://delivery.bukankaleng.co/stream/id_animalplanet/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,NATGEO WILD
+https://delivery.bukankaleng.co/stream/id_natgeowild/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,HOREE
+https://delivery.bukankaleng.co/stream/horee/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,ANIMAX
+https://delivery.bukankaleng.co/stream/id_animax/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,ANIPLUS
+https://delivery.bukankaleng.co/stream/id_aniplus/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,BABY TV
+https://delivery.bukankaleng.co/stream/babytv/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,SPOTV
+https://delivery.bukankaleng.co/stream/spotv1/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,SPOTV2
+https://delivery.bukankaleng.co/stream/spotv2/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,BEIN1
+https://delivery.bukankaleng.co/stream/macan_sport_1/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,BEIN2
+https://delivery.bukankaleng.co/stream/macan_sport_2/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,USEESPORT1
+https://delivery.bukankaleng.co/stream/macan_sport_3/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,USEESPORT2
+https://delivery.bukankaleng.co/stream/macan_sport_4/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,MNC SPORT1
+https://delivery.bukankaleng.co/stream/mnc_sports_1/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,MNC SPORT2
+https://delivery.bukankaleng.co/stream/mnc_sports_2/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,ARENA
+https://delivery.bukankaleng.co/stream/arena/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,ARENA2
+https://delivery.bukankaleng.co/stream/arena2/playlist.m3u8?token=zyfkfy4&v=20200807
+#EXTINF:-1,SONY PIX
+http://iptv.lancartech.co.id:443/play/l4Fdcm5ubcS2GZIJ3HOrc-tdAmS6BsD4Il2n3RkL9-0Dem18WtCNa9yOvzZS7rVn
+#EXTINF:-1,TV1
+http://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=5
+#EXTINF:-1,TV2
+http://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=5
+#EXTINF:-1,SUKAN
+http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=5
+#EXTINF:-1,OKEY
+http://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=5
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Mat Bond Malaya (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/343.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Jangan Takut: Kau Takut Aku Pun Takut
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/310.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Chomel (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/288.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Sabda Kekasih (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/289.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Masuk Jawi
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/285.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",J2: J Retribusi (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/284.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Lif & AJK (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/283.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hanya Namamu Laila (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/255.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Seandainya Kau Ada (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/253.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Dekatnya Cinta (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/252.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Kampong Pisang Musikal Raya Istimewa (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/250.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Salina (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/251.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",18 Puasa Di Kampong Pisang (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/168.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Penunggang Agama (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/189.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Selamat Hari Tak Jadi (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/184.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Bulan dan Pria
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/170.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hantu Bonceng 2.0 (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/163.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Kerana Korona (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/164.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",10 Tips Tipu Bini (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/165.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Petaka (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/166.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Sebelum Iblis Menjemput: Ayat 2 (2020)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/230.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Zombitopia (2020)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/192.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",M4M4 (2020)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/190.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Asih 2 (2020)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/187.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",No Sudden Move (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/347.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Cruella (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/348.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hitman's Wife's Bodyguard (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/349.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",The Suicide Squad (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/345.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Jungle Cruise (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/344.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Flight (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/341.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",F9 (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/340.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Ainbo: Spirit of the Amazon (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/335.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Ascendant (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/334.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",King of New Beggars (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/331.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Space Jam: A New Legacy (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/336.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",River (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/333.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Dark Spell (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/329.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Malik 2021
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/317.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Settlers (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/316.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Fear Street: 1978 (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/315.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Twenty Hacker (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/314.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Haseen Dillruba (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/313.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Waiting For Rain (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/312.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Cold Case 2021
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/309.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Aanum Pennum (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/308.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Collar Bomb (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/311.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Flashback (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/305.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",False Positive (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/302.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Pipeline (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/303.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Dutch (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/304.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Black Widow (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/301.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Peter Rabbit 2: The Runaway (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/299.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Dynasty Warriors (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/300.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",The Tomorrow War (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/295.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Ripper Untold (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/296.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Rurouni Kenshin The Final -Part 1(2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/293.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Jungle Run (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/294.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",The Ice Road (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/292.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",The Misfits (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/290.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Spiral: From the Book of Saw (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/291.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Infinite (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/287.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Bhoomi (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/286.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Great White (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/264.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Recall (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/265.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",The Conjuring: The Devil Made Me Do It (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/263.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",616 Wilford Lane (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/262.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Ghost Lab ฉีกกฎทดลองผี (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/261.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Army of the Dead (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/259.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Super Me (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/260.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Radhe (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/257.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Wild Dog (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/256.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Wrath of Man (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/254.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Oxygène (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/247.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",The Pay Back(2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/245.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",RED (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/246.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",400 Bullets (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/243.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Sulthan (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/231.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",The Marksman (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/227.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Pogaru (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/228.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Mortal Kombat (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/200.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nobody (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/199.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Godzilla vs. Kong (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/191.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Outside the Wire (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/183.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Redemption Day (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/185.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Chaos Walking (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/186.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Girl in the Basement (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/188.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Justice League (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/167.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",The Vault (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/171.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Space Sweepers (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/169.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Tom & Jerry (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/196.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Raya and the Last Dragon (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/194.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Yin Yang Master  (2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/195.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Maara(2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/197.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Krack(2021)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/198.mkv
-#EXTINF:0 tvg-id="avi" group-title="Videos",Monster Hunter (2020)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/193.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",dilwale (2015)
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/342.mp4
+
+
+
+
 
